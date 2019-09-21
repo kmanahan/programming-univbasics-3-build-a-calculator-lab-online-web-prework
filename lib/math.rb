@@ -1,10 +1,12 @@
 def addition(num1, num2)
+puts num1 + num2
 return num1 + num2
 end
 addition(1,2)
 
 
 def subtraction(num1, num2)
+puts num1 - num2
 return num1 - num2
 end
 subtraction(2,1)
