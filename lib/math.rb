@@ -21,7 +21,8 @@ end
 division(2,1)
 
 def multiplication(num1, num2)
-
+puts num1 - num2
+return num1 - num2
 end
 
 def modulo(num1, num2)
