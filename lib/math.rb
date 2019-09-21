@@ -39,4 +39,4 @@ puts Math.sqrt(num)
 return Math.sqrt(num)
 end
 
-square_root(2)
+square_root(4)
