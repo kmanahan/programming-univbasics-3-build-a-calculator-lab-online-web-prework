@@ -1,6 +1,5 @@
 def addition(num1, num2)
-result = num1 + num2
-return result
+puts "#{num1}" + "#{num2}"
 end
 
 addition
