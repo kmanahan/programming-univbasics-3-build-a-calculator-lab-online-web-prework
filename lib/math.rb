@@ -35,8 +35,8 @@ end
 modulo(2,1)
 
 def square_root(num)
-puts num1 ^ num2
-return num1 ^ num2
+puts num1
+return num1
 end
 
 square_root(2,1)
