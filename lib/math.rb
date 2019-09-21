@@ -28,8 +28,11 @@ end
 multiplication(2,1)
 
 def modulo(num1, num2)
-
+puts num1 % num2
+return num1 % num2
 end
+
+modulo(2,1)
 
 def square_root(num)
 
